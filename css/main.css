@@ -4,3 +4,17 @@
 
 display:none;
 }
+
+#siteCon {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.bio {
+
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightpink;
+  margin-top: 20px;
+  font-size: 20px;
+}
